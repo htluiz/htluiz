@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @htluiz
+- 👀 I’m interested in Python, SQL, .NET, R.
+- 🌱 I’m currently learning SQL, .NET.
